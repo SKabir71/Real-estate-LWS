@@ -18,8 +18,8 @@ export default function HomePage() {
       <Available />
       <About />
       <CTA />
-      <Teams />
       <FAQ />
+      <Teams />
       <Contact />
       <Footer />
     </>
